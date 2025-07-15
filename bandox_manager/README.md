@@ -1,16 +1,22 @@
-# dep_manager_panel
+## 👨‍💼 Manager Panel Screenshots
 
-A new Flutter project.
+<p align="center">
+  <img src="../assets/manager_panel/ssmail.jpg" width="180"/>
+  <img src="../assets/manager_panel/mail_auth.jpg" width="180"/>
+  <img src="../assets/manager_panel/depart_list.jpg" width="180"/>
+  <img src="../assets/manager_panel/Screenshot_20250524_095915.png" width="180"/>
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="../assets/manager_panel/Screenshot_20250525_092824.png" width="180"/>
+  <img src="../assets/manager_panel/Screenshot_20250525_092933.png" width="180"/>
+  <img src="../assets/manager_panel/Screenshot_20250525_092951.png" width="180"/>
+  <img src="../assets/manager_panel/Screenshot_20250525_093537.png" width="180"/>
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="../assets/manager_panel/Screenshot_20250524_100045.png" width="180"/>
+  <img src="../assets/manager_panel/user_detail.jpg" width="180"/>
+  <img src="../assets/manager_panel/Screenshot_20250525_093112.png" width="180"/>
+  <img src="../assets/manager_panel/Screenshot_2025-05-23-21-46-58-427_com.enesorhan.donem_projesi.jpg" width="180"/>
+</p>
