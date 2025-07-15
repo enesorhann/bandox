@@ -1,0 +1,1 @@
+C:\Users\Coder\AndroidStudioProjects\FlutterProjects\Donem_Projesi\Admin_Panel\build\app\intermediates\cxx\Debug\1485q57s\obj\arm64-v8a
