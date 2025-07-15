@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "555554166483",
+    "project_id": "donemprojesi-2c535",
+    "storage_bucket": "donemprojesi-2c535.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555554166483:android:8b580f7c653e7a6c8aa626",
+        "android_client_info": {
+          "package_name": "com.enesorhan.admin_paneli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555554166483-3o6bldkfla7fgj6ttgbmfhnn6nt252ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocPIqobexkj__rJZhDEjbz4I1uIjtuXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555554166483-3o6bldkfla7fgj6ttgbmfhnn6nt252ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555554166483-1mfugbj66q31npgb9ebr2hosqm1cev6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enesorhan.donemProjesi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555554166483:android:191268a9b2888de18aa626",
+        "android_client_info": {
+          "package_name": "com.enesorhan.dep_manager_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555554166483-3o6bldkfla7fgj6ttgbmfhnn6nt252ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocPIqobexkj__rJZhDEjbz4I1uIjtuXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555554166483-3o6bldkfla7fgj6ttgbmfhnn6nt252ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555554166483-1mfugbj66q31npgb9ebr2hosqm1cev6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enesorhan.donemProjesi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555554166483:android:fb203f971023f0c28aa626",
+        "android_client_info": {
+          "package_name": "com.enesorhan.donem_projesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555554166483-119vvjg9k1dj5qvbptnemg0p1n7onfpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enesorhan.donem_projesi",
+            "certificate_hash": "584c4a4ff65c151e2de41c0f6fa11538c4ca91e6"
+          }
+        },
+        {
+          "client_id": "555554166483-3o6bldkfla7fgj6ttgbmfhnn6nt252ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocPIqobexkj__rJZhDEjbz4I1uIjtuXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555554166483-3o6bldkfla7fgj6ttgbmfhnn6nt252ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555554166483-1mfugbj66q31npgb9ebr2hosqm1cev6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enesorhan.donemProjesi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

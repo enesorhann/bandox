@@ -1,0 +1,2 @@
+C:/Users/Coder/AndroidStudioProjects/FlutterProjects/Donem_Projesi/Admin_Panel/android/app/.cxx/RelWithDebInfo/733v6x6h/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Coder/AndroidStudioProjects/FlutterProjects/Donem_Projesi/Admin_Panel/android/app/.cxx/RelWithDebInfo/733v6x6h/armeabi-v7a/CMakeFiles/rebuild_cache.dir

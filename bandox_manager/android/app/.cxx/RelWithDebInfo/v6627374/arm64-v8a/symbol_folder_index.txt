@@ -1,0 +1,1 @@
+C:\Users\Coder\AndroidStudioProjects\FlutterProjects\Donem_Projesi\Dep_Manager_Panel\build\app\intermediates\cxx\RelWithDebInfo\v6627374\obj\arm64-v8a
