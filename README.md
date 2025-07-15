@@ -27,39 +27,28 @@ bandox/
 ├── manager_panel/    # Company-specific management and control
 └── user_panel/       # Employee task management and collaboration
 ```
-
-### Panels Overview
-
--**Admin Panel:**
-This panel offers a comprehensive overview of all registered companies within the system. Administrators can view, add, or modify company details and manage high-level organizational settings with ease.
-
--**Manager Panel:**
-Designed for company-specific management, this panel enables managers to oversee projects, assign and prioritize tasks, monitor workflow progress, and facilitate team collaboration efficiently.
-
--**User Panel:**
-The employee-facing interface where users can manage their individual tasks, update statuses, and collaborate seamlessly through subtasks and real-time notifications. It also supports secure internal messaging, allowing team members to communicate directly within the platform — ensuring all conversations remain private and securely stored within the company’s infrastructure.
-
----
-
 ## 📱 Features
 
 ### Admin Panel
 
-- View and manage companies  
-- Admin-level access controls and configurations  
+- Offers a comprehensive overview of all registered companies within the system  
+- Allows administrators to view, add, or modify company details  
+- Manages high-level organizational settings with ease  
 
 ### Manager Panel
 
-- Manage company projects and workflows  
-- Assign tasks and monitor team progress  
+- Enables managers to oversee projects and workflows  
+- Allows assigning and prioritizing tasks  
+- Monitors workflow progress  
+- Facilitates efficient team collaboration  
 
 ### User Panel
 
-- Personal task boards (To Do, In Progress, Done)  
-- Assign and manage subtasks  
-- Real-time sync with Firebase
-
----
+- Provides an interface for managing individual tasks  
+- Supports task status updates and subtasks management  
+- Enables real-time notifications and collaboration  
+- Includes secure internal messaging for private, company-wide communication  
+- Ensures all conversations are stored securely within the company’s infrastructure  
 
 ## 📦 Dependencies
 
