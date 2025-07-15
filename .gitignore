@@ -9,6 +9,10 @@ pubspec.lock
 # Firebase config file
 lib/firebase_options.dart
 firebase.json
+bandox_user/android/app/google-services.json
+firebase_options.dart
+bandox_admin/android/app/google-services.json
+
 
 web/firebase-messaging-sw.js
 # Directory created by dartdoc
