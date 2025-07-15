@@ -8,7 +8,7 @@ build/
 pubspec.lock
 # Firebase config file
 lib/firebase_options.dart
-
+firebase.json
 
 web/firebase-messaging-sw.js
 # Directory created by dartdoc
