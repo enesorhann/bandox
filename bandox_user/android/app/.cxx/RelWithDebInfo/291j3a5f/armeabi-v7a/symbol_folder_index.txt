@@ -1,0 +1,1 @@
+C:\Users\Coder\AndroidStudioProjects\FlutterProjects\Donem_Projesi\User_Panel\build\app\intermediates\cxx\RelWithDebInfo\291j3a5f\obj\armeabi-v7a
