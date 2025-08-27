@@ -1,2 +1,20 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+web/** linguist-vendored
+
+
+build/** linguist-vendored
+.ios/** linguist-vendored
+.android/** linguist-vendored
+
+
+*.g.dart linguist-vendored
+*.freezed.dart linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
