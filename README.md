@@ -88,7 +88,7 @@ Navigate to the face recognition backend folder (e.g., `face_recognition_service
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/enesorhann/bandbox.git
+   git clone https://github.com/enesorhann/bandbox.git](https://github.com/enesorhann/bandox.git
 
 
 ## 🙏 Thanks / Credits
